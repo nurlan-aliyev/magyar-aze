@@ -38,9 +38,9 @@ Macar - Azərbaycan dili (E-lüğət)
 | S s	| [ʃ] | "Ş" |	
 | Sz sz | [s] | "S" |
 | T t	| [t] | |		
-| Ty ty |	[c]	"t" və "y" birlikdə söylənir
-| U u	| [u]		
-| Ú ú	| [u:]	Uzun "u" səsi .	
+| Ty ty |	[c]	| "t" və "y" birlikdə söylənir
+| U u	| [u]		| |
+| Ú ú	| [u:]	| Uzun "u" səsi .	
 | Ü ü	| [y]	| |	
 | Ű ű	| [y:] | 	Uzun "ü" səsi | 	
 | V v	| [v]	| |	
