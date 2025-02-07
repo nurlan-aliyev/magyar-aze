@@ -64,7 +64,7 @@ Macar - Azərbaycan dili (E-lüğət)
 ### Tőszámnevek - Vacib saylar
 
 
-|           **Azərbaycanca**            |           **Magyar**           |
+|       **Azərbaycanca**       |           **Magyar**           |
 | :--------------------------: | :----------------------------: |
 |            sıfır             |             nulla              |
 |             bir              |              egy               |
@@ -108,43 +108,43 @@ Macar - Azərbaycan dili (E-lüğət)
 ### Sorszámnevek - sıra sayları
 
 
-|   **Azərbaycanca**    | **Magyar**  |
-| :----------: | :---------: |
-| birinci, ilk |    első     |
-|    ikinci    |   második   |
-|    üçüncü    |  harmadik   |
-|   dördüncü   |  negyedik   |
-|   beşinci    |   ötödik    |
-|   altıncı    |   hatodik   |
-|   yeddinci   |   hetedik   |
-|  səkkizinci  |  nyolcadik  |
-|  doqquzuncu  | kilencedik  |
-|    onuncu    |   tizedik   |
-|  iyirminci   |  huszadik   |
-|   otuzuncu   | harmincadik |
-|   yüzüncü    |  századik   |
+| **Azərbaycanca** | **Magyar**  |
+| :--------------: | :---------: |
+|   birinci, ilk   |    első     |
+|      ikinci      |   második   |
+|      üçüncü      |  harmadik   |
+|     dördüncü     |  negyedik   |
+|     beşinci      |   ötödik    |
+|     altıncı      |   hatodik   |
+|     yeddinci     |   hetedik   |
+|    səkkizinci    |  nyolcadik  |
+|    doqquzuncu    | kilencedik  |
+|      onuncu      |   tizedik   |
+|    iyirminci     |  huszadik   |
+|     otuzuncu     | harmincadik |
+|     yüzüncü      |  századik   |
 
 ### Törtek - Kəsr sayları
 
-|   **Azərbaycanca**    |    **Magyar**     |
-| :----------: | :---------------: |
-|    yarım     |        fél        |
-|  bir yarım   | egy és fél/másfél |
-|   üçdə bir   |     egyharmad     |
-|   üçdə iki   |     kétharmad     |
-|  dörddə bir  |    (egy)negyed    |
-|  dörddə üç   |    háromnegyed    |
-|  beşdə bir   |       ötöd        |
-|  altıda bir  |       hatod       |
-| yeddidə bir  |       heted       |
-| səkkizdə bir |      nyolcad      |
-| doqquzda bir |     kilenced      |
-|   onda bir   |       tized       |
-|  yüzdə bir   |      század       |
+| **Azərbaycanca** |    **Magyar**     |
+| :--------------: | :---------------: |
+|      yarım       |        fél        |
+|    bir yarım     | egy és fél/másfél |
+|     üçdə bir     |     egyharmad     |
+|     üçdə iki     |     kétharmad     |
+|    dörddə bir    |    (egy)negyed    |
+|    dörddə üç     |    háromnegyed    |
+|    beşdə bir     |       ötöd        |
+|    altıda bir    |       hatod       |
+|   yeddidə bir    |       heted       |
+|   səkkizdə bir   |      nyolcad      |
+|   doqquzda bir   |     kilenced      |
+|     onda bir     |       tized       |
+|    yüzdə bir     |      század       |
 
 ## Hónapok és évek - Aylar və illər
 
-|         **Azərbaycanca**          |  **Magyar**  |
+|     **Azərbaycanca**     |  **Magyar**  |
 | :----------------------: | :----------: |
 |            il            |      év      |
 |        təqvim ili        |  naptári év  |
@@ -163,7 +163,7 @@ Macar - Azərbaycan dili (E-lüğət)
 |         minillik         |   éverzred   |
 
 ### Hónapok - aylar
-|        **Azərbaycanca**         |      **Magyar**      |
+|    **Azərbaycanca**    |      **Magyar**      |
 | :--------------------: | :------------------: |
 |         Yanvar         |        január        |
 |         Fevral         |       február        |
@@ -190,12 +190,12 @@ Macar - Azərbaycan dili (E-lüğət)
 
 ### Évszakok - mövsümlər
 
-|    **Azərbaycanca**    |    **Magyar**    |
-| :-----------: | :--------------: |
-|      yaz      |      tavasz      |
-|      yay      |       nyár       |
-|     payız     |       ősz        |
-|      qış      |       tél        |
-|  yayda/qışda  |   nyáron/télen   |
-| yazda/payızda | tavasszal/ősszel |
+| **Azərbaycanca** |    **Magyar**    |
+| :--------------: | :--------------: |
+|       yaz        |      tavasz      |
+|       yay        |       nyár       |
+|      payız       |       ősz        |
+|       qış        |       tél        |
+|   yayda/qışda    |   nyáron/télen   |
+|  yazda/payızda   | tavasszal/ősszel |
 
