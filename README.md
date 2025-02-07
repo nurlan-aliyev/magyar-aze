@@ -2,11 +2,11 @@
 Macar - Azərbaycan dili (E-lüğət)
 
 
-|            **Mövzu**             |                                                              **Link**                                                               |
-| :------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-| Macar əlifbası - A Magyar ábécé  | [kliklə](https://github.com/nurlan-aliyev/magyar-aze/edit/main/README.md#macar-%C9%99lifbas%C4%B1---a-magyar-%C3%A1b%C3%A9c%C3%A9)  |
-|         Számok - Saylar          |                   [kliklə](https://github.com/nurlan-aliyev/magyar-aze/edit/main/README.md#sz%C3%A1mok---saylar)                    |
-| Hónapok és évek - Aylar və illər | [kliklə](https://github.com/nurlan-aliyev/magyar-aze/edit/main/README.md#h%C3%B3napok-%C3%A9s-%C3%A9vek---aylar-v%C9%99-ill%C9%99r) |
+|            **Mövzu**             |                                                              **Link**                                                                        |
+| :------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+| Macar əlifbası - A Magyar ábécé  | [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#macar-%C9%99lifbas%C4%B1---a-magyar-%C3%A1b%C3%A9c%C3%A9)  |
+|         Számok - Saylar          |                   [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#sz%C3%A1mok---saylar)                    |
+| Hónapok és évek - Aylar və illər | [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#h%C3%B3napok-%C3%A9s-%C3%A9vek---aylar-v%C9%99-ill%C9%99r) |
 
 
 ## Macar əlifbası - A Magyar ábécé
