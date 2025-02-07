@@ -64,7 +64,7 @@ Macar - Azərbaycan dili (E-lüğət)
 ### Tőszámnevek - Vacib saylar
 
 
-|           **Aze**            |           **Magyar**           |
+|           **Azərbaycanca**            |           **Magyar**           |
 | :--------------------------: | :----------------------------: |
 |            sıfır             |             nulla              |
 |             bir              |              egy               |
@@ -108,7 +108,7 @@ Macar - Azərbaycan dili (E-lüğət)
 ### Sorszámnevek - sıra sayları
 
 
-|   **Aze**    | **Magyar**  |
+|   **Azərbaycanca**    | **Magyar**  |
 | :----------: | :---------: |
 | birinci, ilk |    első     |
 |    ikinci    |   második   |
@@ -126,7 +126,7 @@ Macar - Azərbaycan dili (E-lüğət)
 
 ### Törtek - Kəsr sayları
 
-|   **Aze**    |    **Magyar**     |
+|   **Azərbaycanca**    |    **Magyar**     |
 | :----------: | :---------------: |
 |    yarım     |        fél        |
 |  bir yarım   | egy és fél/másfél |
@@ -144,7 +144,7 @@ Macar - Azərbaycan dili (E-lüğət)
 
 ## Hónapok és évek - Aylar və illər
 
-|         **Aze**          |  **Magyar**  |
+|         **Azərbaycanca**          |  **Magyar**  |
 | :----------------------: | :----------: |
 |            il            |      év      |
 |        təqvim ili        |  naptári év  |
@@ -163,7 +163,7 @@ Macar - Azərbaycan dili (E-lüğət)
 |         minillik         |   éverzred   |
 
 ### Hónapok - aylar
-|        **Aze**         |      **Magyar**      |
+|        **Azərbaycanca**         |      **Magyar**      |
 | :--------------------: | :------------------: |
 |         Yanvar         |        január        |
 |         Fevral         |       február        |
@@ -190,7 +190,7 @@ Macar - Azərbaycan dili (E-lüğət)
 
 ### Évszakok - mövsümlər
 
-|    **Aze**    |    **Magyar**    |
+|    **Azərbaycanca**    |    **Magyar**    |
 | :-----------: | :--------------: |
 |      yaz      |      tavasz      |
 |      yay      |       nyár       |
