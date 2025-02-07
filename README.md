@@ -9,6 +9,7 @@ Macar - Azərbaycan dili (E-lüğət)
 | Hónapok és évek - Aylar və illər | [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#h%C3%B3napok-%C3%A9s-%C3%A9vek---aylar-v%C9%99-ill%C9%99r) |
 
 
+
 ## Macar əlifbası - A Magyar ábécé
 
 |  Hərf   |     IPA     |                                                            Məlumat                                                             |
@@ -198,4 +199,25 @@ Macar - Azərbaycan dili (E-lüğət)
 |       qış        |       tél        |
 |   yayda/qışda    |   nyáron/télen   |
 |  yazda/payızda   | tavasszal/ősszel |
+
+## Napok és hetek - Günlər və həftələr
+
+|    **Azərbaycanca**     |       **Magyar**        |
+| :---------------------: | :---------------------: |
+|          bugün          |           ma            |
+|          sabah          |         holnap          |
+|  sabah yox obirisi gün  |       holnapután        |
+|      üç gün sonra       |     három nap múlva     |
+|          dünən          |         tegnap          |
+|        srağagün         |       tegnapelőtt       |
+|    gündəlik/hər gün     |    naponta/mindennap    |
+|    bir gündə/həftədə    | naponta/hetente egyszer |
+|     üç həftə sonra      |     három hét múlva     |
+|    keçən/gələn həftə    |   a múlt/jövő hét(en)   |
+| bütün həftə / həftəboyu |         a héten         |
+|      həftəsonları       |       hétvégeken        |
+|       iş günləri        |        munkanap         |
+|         iş günü         |        hétköznap        |
+|          tətil          |        ünnepnap         |
+
 
