@@ -2,12 +2,15 @@
 Macar - Azərbaycan dili (E-lüğət)
 
 
-|              **Mövzu**              |                                                                    **Link**                                                                     |
-| :---------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
-|   Macar əlifbası - A Magyar ábécé   |   [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#macar-%C9%99lifbas%C4%B1---a-magyar-%C3%A1b%C3%A9c%C3%A9)   |
-|           Számok - Saylar           |                     [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#sz%C3%A1mok---saylar)                     |
-|  Hónapok és évek - Aylar və illər   |  [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#h%C3%B3napok-%C3%A9s-%C3%A9vek---aylar-v%C9%99-ill%C9%99r)   |
-| Napok és hetek - Günlər və həftələr | [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#napok-%C3%A9s-hetek---g%C3%BCnl%C9%99r-v%C9%99-h%C9%99ft%C9%99l%C9%99r) |
+|                      **Mövzu**                      |                                                                    **Link**                                                                     |
+| :-------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+|           Macar əlifbası - A Magyar ábécé           |   [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#macar-%C9%99lifbas%C4%B1---a-magyar-%C3%A1b%C3%A9c%C3%A9)   |
+|                   Számok - Saylar                   |                     [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#sz%C3%A1mok---saylar)                     |
+|          Hónapok és évek - Aylar və illər           |  [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#h%C3%B3napok-%C3%A9s-%C3%A9vek---aylar-v%C9%99-ill%C9%99r)   |
+|         Napok és hetek - Günlər və həftələr         | [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#napok-%C3%A9s-hetek---g%C3%BCnl%C9%99r-v%C9%99-h%C9%99ft%C9%99l%C9%99r) |
+|        Órák és percek - Saatlar və dəqiqələr        |                                                                     kliklə                                                                      |
+|                  Színek - Rənglər                   |                                                                     kliklə                                                                      |
+| Méretek és tulajdonságok - Ölçülər və xüsusiyyətlər |                                                                     kliklə                                                                      |
 
 
 
@@ -221,5 +224,106 @@ Macar - Azərbaycan dili (E-lüğət)
 |       iş günləri        |        munkanap         |
 |         iş günü         |        hétköznap        |
 |          tətil          |        ünnepnap         |
+
+
+### A hét napjai - Həftənin günləri
+
+|     **Azərbaycanca**      |      **Magyar**       |
+| :-----------------------: | :-------------------: |
+|       Bazar ertəsi        |         hétfő         |
+|      Çərşənbə axşamı      |         kedd          |
+|         Çərşənbə          |        szerda         |
+|        Cümə axşamı        |       csütörtök       |
+|           Cümə            |        péntek         |
+|           Şənbə           |        szombat        |
+|           Bazar           |       vasárnap        |
+| Üçüncü gün / Dördüncü gün | szerdán / csütörtökön |
+
+### Napszakok - Günün hissələri
+
+|            **Azərbaycanca**            |      **Magyar**       |
+| :------------------------------------: | :-------------------: |
+|              səhər/sabah               |        reggel         |
+|            günortadan əvvəl            |       délelőtt        |
+|                günorta                 |          dél          |
+|            günortadan sonra            |        délután        |
+|                 axşam                  |          est          |
+|                  gecə                  |        éjszaka        |
+|              gecə yarısı               |         éjfél         |
+|              səhər vaxtı               |        reggel         |
+|             günörta vaxtı              |        délben         |
+|            günortadan sonra            |        délután        |
+|               axşam çağı               |         este          |
+|                bu axşam                |        ma este        |
+|              dünən axşam               |      tegnap este      |
+|               gecə vaxtı               |         éjjel         |
+|              sübh tezdən               |     korán reggel      |
+| gecə yarısında / gecə yarısından sonra | éjfélkor / éjfél után |
+|              gün ərzində               |       napközben       |
+
+## Órák és percek - Saatlar və dəqiqələr
+
+
+|       **Azərbaycanca**        |   **Magyar**    |
+| :---------------------------: | :-------------: |
+|            saniyə             |    másodperc    |
+|            dəqiqə             |      perc       |
+|             saat              |       óra       |
+| 15 dəqiqə (çeyrək/dörddə bir) |    negyedóra    |
+|          yarım saat           |     félóra      |
+|           45 dəqiqə           | háromnegyed óra |
+
+## Színek - Rənglər
+
+| **Azərbaycanca** |   **Magyar**   |
+| :--------------: | :------------: |
+|       rəng       |      szín      |
+|      qızılı      |   aranyszínű   |
+|     qəhvəyi      |     barna      |
+|       bej        |      bézs      |
+|      gümüşü      |   ezüstszínű   |
+|        ağ        |     fehér      |
+|       qara       |     fekete     |
+|     şabalıdı     | gesztenyebarna |
+|      solğun      | halvány, fakó  |
+|       mavi       |      kék       |
+|    bənövşəyi     |      lila      |
+|     narıncı      |  narancssárga  |
+|     qırmızı      |     piros      |
+|     çəhrayı      |  rózsaszín(ű)  |
+|       sarı       |     sárga      |
+|       tün        |     sötét      |
+|      rəngli      |     színes     |
+|     rəngsiz      |   színtelen    |
+|       boz        |     szürke     |
+|       açık       |    világos     |
+|      yaşıl       |      zöld      |
+
+## Méretek és tulajdonságok - Ölçülər və xüsusiyyətlər
+
+
+|   **Azərbaycanca**   |   **Magyar**   |
+| :------------------: | :------------: |
+|        kiçik         |   kis, kicsi   |
+|        böyük         |      nagy      |
+|         qısa         |     rövid      |
+|         uzun         |     hosszú     |
+|        qalın         |     vastag     |
+|        geniş         |     széles     |
+|         incə         |     vékony     |
+|         dar          | keskeny, szűk  |
+|        hündür        |     magas      |
+|   alçaq/balacaboy    |    alacsony    |
+|        dərin         |      mély      |
+|        dayaz         |     sekély     |
+|         düz          |     lapos      |
+|   yuvarlaq/dəyirmi   |     kerek      |
+|       kvadrat        |   szögletes    |
+|    əyri/bükülmüş     | görbe, hajlott |
+| düz (xətt anlamında) |    egyenes     |
+|        yüngül        |     könnyű     |
+|         ağır         |     nehéz      |
+|        həcmli        |     testes     |
+
 
 
