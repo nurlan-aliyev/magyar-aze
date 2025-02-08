@@ -2,16 +2,16 @@
 Macar - Azərbaycan dili (E-lüğət)
 
 
-|                      **Mövzu**                      |                                                                    **Link**                                                                     |
-| :-------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
-|           Macar əlifbası - A Magyar ábécé           |   [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#macar-%C9%99lifbas%C4%B1---a-magyar-%C3%A1b%C3%A9c%C3%A9)   |
-|                   Számok - Saylar                   |                     [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#sz%C3%A1mok---saylar)                     |
-|          Hónapok és évek - Aylar və illər           |  [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#h%C3%B3napok-%C3%A9s-%C3%A9vek---aylar-v%C9%99-ill%C9%99r)   |
-|         Napok és hetek - Günlər və həftələr         | [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#napok-%C3%A9s-hetek---g%C3%BCnl%C9%99r-v%C9%99-h%C9%99ft%C9%99l%C9%99r) |
-|        Órák és percek - Saatlar və dəqiqələr        |                                                                     kliklə                                                                      |
-|                  Színek - Rənglər                   |                                                                     kliklə                                                                      |
-| Méretek és tulajdonságok - Ölçülər və xüsusiyyətlər |                                                                     kliklə                                                                      |
 
+|                      **Mövzu**                      |                                                                                      **Link**                                                                                       |
+| :-------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|           Macar əlifbası - A Magyar ábécé           |                     [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#macar-%C9%99lifbas%C4%B1---a-magyar-%C3%A1b%C3%A9c%C3%A9)                     |
+|                   Számok - Saylar                   |                                       [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#sz%C3%A1mok---saylar)                                       |
+|          Hónapok és évek - Aylar və illər           |                    [kliklə](https://github.com/nurlan-aliyev/magyar-aze/tree/main?tab=readme-ov-file#h%C3%B3napok-%C3%A9s-%C3%A9vek---aylar-v%C9%99-ill%C9%99r)                     |
+|         Napok és hetek - Günlər və həftələr         |                   [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#napok-%C3%A9s-hetek---g%C3%BCnl%C9%99r-v%C9%99-h%C9%99ft%C9%99l%C9%99r)                   |
+|        Órák és percek - Saatlar və dəqiqələr        |                  [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#%C3%B3r%C3%A1k-%C3%A9s-percek---saatlar-v%C9%99-d%C9%99qiq%C9%99l%C9%99r)                  |
+|                  Színek - Rənglər                   |                                      [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#sz%C3%ADnek---r%C9%99ngl%C9%99r)                                       |
+| Méretek és tulajdonságok - Ölçülər və xüsusiyyətlər | [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#m%C3%A9retek-%C3%A9s-tulajdons%C3%A1gok---%C3%B6l%C3%A7%C3%BCl%C9%99r-v%C9%99-x%C3%BCsusiyy%C9%99tl%C9%99r) |
 
 
 
