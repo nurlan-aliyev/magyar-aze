@@ -326,4 +326,42 @@ Macar - Azərbaycan dili (E-lüğət)
 |        həcmli        |     testes     |
 
 
+## Tájékoztató feliratok - Məlumat işarələri
+
+
+|                      **Azərbaycanca**                      |                 **Magyar**                  |
+| :--------------------------------------------------------: | :-----------------------------------------: |
+|           İlk tibbi yardım, Təcili tibbi yardım            |           Elsősegély, Gyorsmentő            |
+|                        Təcili çıxış                        |                 Vészkijárat                 |
+|                      Fövqəladə əyləc                       |                   Vészfék                   |
+|                             Aç                             |                   Nyitva                    |
+|                        İş saatları                         |                Nyitvatartás                 |
+|                       Yandır/söndür                        |                    Be/Ki                    |
+|                          Açmayın                           |                Ne nyissa ki                 |
+|                     Alışveriş mərkəzi                      |              Bevásárlóközpont               |
+|                       Yeraltı keçid                        |                  Aluljáró                   |
+|                     Avtomobil kirayəsi                     |                Autókölcsönző                |
+|                            Lift                            |                Felvonó, Lift                |
+|                  Od yandırmaq qadağandır                   |              Tüzet rakni tilos              |
+|                Odla yaxınlaşmaq qadağandır                 |        Nyílt lánggal dolgozni tilos         |
+|                         Baqaj alım                         |       Poggyászfeladás, poggyászkiadó        |
+|                  Balıq ovlamaq qadağandır                  |               Horgászni tilos               |
+|                            Bank                            |                    Bank                     |
+|                      Diqqət, pilləkan                      |             Vigyázat, lépcsők!              |
+|                       Düyməni basın                        |             Nyomja le a gombot              |
+|                    Kişi (Kişi tualeti)                     |          Férfiak (férfi illemhely)          |
+|                   Qadın (Qadın tualeti)                    |             Nők (női illemhely)             |
+|                         Uşaq otağı                         |                  Pelenkázó                  |
+|                        Gözləmə zalı                        |                 Váró(terem)                 |
+|                           Bilet                            |                  Menetjegy                  |
+| Ödəniş/gediş haqqı, Avtomobil yolu ödənişi, Billet kassası | Úthasználati díj, Autópályadíj, Jegypénztár |
+|                   Biletlər, giriş bileti                   |             Jegyek, Belépőjegy              |
+|                          Pivəxana                          |                   Söröző                    |
+|                       Velosiped yolu                       |                 Kerékpárút                  |
+|                            Boş                             |                   Szabad                    |
+|                        Boş otaqlar                         |                Szabad szoba                 |
+|                      Qəpik daxil edin                      |            Dobja be az pénzérmét            |
+
+
+
 
