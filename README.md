@@ -12,7 +12,7 @@ Macar - Azərbaycan dili (E-lüğət)
 |        Órák és percek - Saatlar və dəqiqələr        |                  [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#%C3%B3r%C3%A1k-%C3%A9s-percek---saatlar-v%C9%99-d%C9%99qiq%C9%99l%C9%99r)                  |
 |                  Színek - Rənglər                   |                                      [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#sz%C3%ADnek---r%C9%99ngl%C9%99r)                                       |
 | Méretek és tulajdonságok - Ölçülər və xüsusiyyətlər | [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#m%C3%A9retek-%C3%A9s-tulajdons%C3%A1gok---%C3%B6l%C3%A7%C3%BCl%C9%99r-v%C9%99-x%C3%BCsusiyy%C9%99tl%C9%99r) |
-
+|      Tájékoztató feliratok - Məlumat işarələri      |                [kliklə](https://github.com/nurlan-aliyev/magyar-aze?tab=readme-ov-file#t%C3%A1j%C3%A9koztat%C3%B3-feliratok---m%C9%99lumat-i%C5%9Far%C9%99l%C9%99ri)                |
 
 
 ## Macar əlifbası - A Magyar ábécé
